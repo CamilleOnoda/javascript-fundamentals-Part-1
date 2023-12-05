@@ -18,3 +18,16 @@ const COLOR_ORANGE = "#FF7F00";
 
 let color = COLOR_GREEN;
 //alert(color);
+
+
+//Practice
+let userName, admin;
+userName = "John";
+admin = userName;
+//alert(admin)
+
+let ourPlanet = "Earth";
+let currentUser = "Camille";
+
+const BIRTHDAY = "15/09/1988";
+const age = someCode(BIRTHDAY);
